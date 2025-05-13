@@ -76,11 +76,11 @@ Programs:
 ## User interface
 
 ### Board  
-![board](/_for_readme/UI/board.png)  
 After the game starts, an empty board is displayed with columns labeled **a**, **b**, **c** and rows labeled **1**, **2**, **3**. The user must input a valid column and row (e.g., `b1`) to place their mark.
+![board](/_for_readme/UI/board.png) 
 
-![invalid moves](/_for_readme/UI/invalid_moves.png)  
 If the selected cell is already occupied or the input is invalid, an error message is displayed, and the user is prompted again to select a valid cell.
+![invalid moves](/_for_readme/UI/invalid_moves.png)  
 
 ---
 
