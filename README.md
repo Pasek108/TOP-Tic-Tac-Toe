@@ -39,7 +39,7 @@ The Odin Project is an excellent resource for self-taught developers looking for
 # Overview :sparkles:
 
 ## About
-This project is my solution for [Project: Tic Tac Toe](https://www.theodinproject.com/lessons/ruby-tic-tac-toe) on [Foundations Course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) from [The Odin Project (TOP)](https://www.theodinproject.com) which is an open-source curriculum for learning full-stack web development.
+This project is my solution for [Project: Tic Tac Toe](https://www.theodinproject.com/lessons/ruby-tic-tac-toe) on [Ruby Course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) from [The Odin Project (TOP)](https://www.theodinproject.com) which is an open-source curriculum for learning full-stack web development.
 
 <br>
 
