@@ -1,7 +1,7 @@
 <h1 align="center">TOP-Rock-Paper-Scissors - Readme</h1>
 <p align="center">
   <strong>
-    My solution for project from <a href="https://www.theodinproject.com" target="_blank">The Odin Project (TOP)</a>
+    My solution for project from <a href="https://www.theodinproject.com" target="_blank">The Odin Project (TOP)</a> full-stack curriculum
   </strong>
 </p>
 <div align="center">
