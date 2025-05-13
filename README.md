@@ -68,7 +68,7 @@ Programs:
 - Run `ruby ./lib/main.rb`
 
 ## Acknowledgements
-- [Box-drawing characters](https://en.wikipedia.org/wiki/Box-drawing_characters)
+- [Wikipedia - Box-drawing characters](https://en.wikipedia.org/wiki/Box-drawing_characters)
 
 <br>
 
