@@ -1,7 +1,7 @@
 <h1 align="center">TOP-Rock-Paper-Scissors - Readme</h1>
 <p align="center">
   <strong>
-    My solution for <a href="https://www.theodinproject.com/lessons/ruby-tic-tac-toe" target="_blank">Project: Tic Tac Toe</a> on  <a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby" target="_blank">Ruby Course</a> from <a href="https://www.theodinproject.com" target="_blank">The Odin Project (TOP)</a>
+    My solution for project from <a href="https://www.theodinproject.com" target="_blank">The Odin Project (TOP)</a>
   </strong>
 </p>
 <div align="center">
@@ -75,25 +75,18 @@ Programs:
 
 ## User interface
 
-### Pick Menu  
-![Pick Menu](/_for_readme/UI/pick-menu.png)  
-At the top, there is a menu with three options - rock, paper, and scissors, depicted as images. To play a round, the user must click on one of the options.  
+### Board  
+![board](/_for_readme/UI/board.png)  
+After the game starts, an empty board is displayed with columns labeled **a**, **b**, **c** and rows labeled **1**, **2**, **3**. The user must input a valid column and row (e.g., `b1`) to place their mark.
+
+![invalid moves](/_for_readme/UI/invalid_moves.png)  
+If the selected cell is already occupied or the input is invalid, an error message is displayed, and the user is prompted again to select a valid cell.
 
 ---
 
-### Frogs  
-![Frogs](/_for_readme/UI/frogs.png)  
-The game state is reflected by two frogs: the player’s frog on the left and the enemy frog on the right. Below them, a health bar represents their remaining health.  
+### Game Over  
+The game ends when one of the players gets three marks in a row — vertically, horizontally, or diagonally — and wins, or when the board is full, resulting in a draw.
 
----
-
-### Attack  
-![Attack](/_for_readme/UI/attack.png)  
-When the user selects an option, the round is played, and the result is displayed. The losing pick is slashed, and the losing frog gets hit, losing an unit of health.  
-
----
-
-### Winner  
-![Winner](/_for_readme/UI/winner.png)  
-If one of the frogs loses all its health, it disappears, and a win or lose message, along with music, is played.  
+![winner](/_for_readme/UI/winner.png)  
+![draw](/_for_readme/UI/draw.png)  
 
