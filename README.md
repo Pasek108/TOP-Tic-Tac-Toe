@@ -21,6 +21,7 @@
   * [Features](#features)
   * [Technologies](#technologies)
   * [Setup](#setup)
+  * [Acknowledgements](#acknowledgements)
 * [Details :scroll:](#details-scroll)
   * [User interface](#user-interface)
 
